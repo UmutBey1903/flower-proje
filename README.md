@@ -2,4 +2,5 @@
 
 <h2>farkli türlerde cicekler</h2>
 
-![](flower.gif)
+
+![](gif/flower.gif)
